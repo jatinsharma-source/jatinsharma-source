@@ -32,7 +32,7 @@
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/jatinsharma-source
-- LinkedIn: (https://www.linkedin.com/in/jatin-sharma-2a42a237a/)
+- LinkedIn: https://www.linkedin.com/in/jatin-sharma-2a42a237a/
 
 ---
 ⭐ Thanks for visiting my profile!
