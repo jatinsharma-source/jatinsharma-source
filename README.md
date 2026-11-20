@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Jatin Sharma
 
-<!--
-**jatinsharma-source/jatinsharma-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA AI & DS Student | First Year
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+- I am a first-year BCA student specializing in Artificial Intelligence and Data Science.
+- I am interested in programming, technology, and problem-solving.
+- I am exploring the world of software development and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- C Programming
+- Python (Learning)
+- Linux
+- Git & GitHub
+- Problem Solving
+
+## 📚 Currently Learning
+- Programming Fundamentals
+- Data Structures
+- Artificial Intelligence
+- Data Science
+
+## 🚀 Featured Projects
+- CSE103 Lab Practicals
+- Programming Assignments
+- Beginner Coding Projects
+
+## 🎯 Goals
+- Improve my programming skills.
+- Build practical projects.
+- Learn AI and Data Science.
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/jatinsharma-source
+- LinkedIn: Add your LinkedIn profile URL here
+
+---
+⭐ Thanks for visiting my profile!
