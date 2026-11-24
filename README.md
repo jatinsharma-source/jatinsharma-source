@@ -1,38 +1,36 @@
-# Hi 👋, I'm Jatin Sharma
 
-🎓 BCA AI & DS Student | First Year
+# Hi, I'm Jatin Sharma 👋
 
-## 🙋‍♂️ About Me
-- I am a first-year BCA student specializing in Artificial Intelligence and Data Science.
-- I am interested in programming, technology, and problem-solving.
-- I am exploring the world of software development and AI.
+🎓 BCA Artificial Intelligence & Data Science Student  
+🏫 K.R. Mangalam University  
+📅 Expected Graduation: 2029
 
-## 💻 Technical Skills
-- C Programming
-- Python (Learning)
-- Linux
-- Git & GitHub
-- Problem Solving
+## About Me
+- I am a first-year BCA AI & DS student.
+- Interested in programming, software development, and Artificial Intelligence.
+- Currently learning and improving my technical skills.
 
-## 📚 Currently Learning
+## Technical Skills
+- Python
+- Java
+
+## Currently Learning
 - Programming Fundamentals
 - Data Structures
 - Artificial Intelligence
 - Data Science
 
-## 🚀 Featured Projects
-- CSE103 Lab Practicals
-- Programming Assignments
-- Beginner Coding Projects
+## Featured Projects
 
-## 🎯 Goals
-- Improve my programming skills.
-- Build practical projects.
-- Learn AI and Data Science.
+### CSE103 Lab Practicals
+- Practicing Git and GitHub workflows.
+- Learning repository management and documentation.
 
-## 🤝 Connect With Me
+🔗 [View Project](https://github.com/jatinsharma-source/cse103-lab-LAB3)
+
+## Connect With Me
+
 - GitHub: https://github.com/jatinsharma-source
-- LinkedIn: https://www.linkedin.com/in/jatin-sharma-2a42a237a/
+- LinkedIn: https://www.linkedin.com/in/jatin-sharma-2a42a237a
 
----
 ⭐ Thanks for visiting my profile!
